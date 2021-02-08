@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  DemoProject
+//  VideoPlayer
 //
-//  Created by K12 Services on 02/01/21.
+//  Created by K12 Services on 08/02/21.
 //
 
 import UIKit
