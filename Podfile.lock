@@ -1,0 +1,16 @@
+PODS:
+  - GPVideoPlayer (1.0.4)
+
+DEPENDENCIES:
+  - GPVideoPlayer
+
+SPEC REPOS:
+  trunk:
+    - GPVideoPlayer
+
+SPEC CHECKSUMS:
+  GPVideoPlayer: fcb68bdba2522f3edd3145b0f1de17423e0b30e1
+
+PODFILE CHECKSUM: d30f141511a6bf3fe5aab8d3d29538b71f08a682
+
+COCOAPODS: 1.10.0

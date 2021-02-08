@@ -39,6 +39,8 @@ class PlayVideoListVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        
+        
         titleLabel.text = getTitle
         
         descriptionLabel.text = getDescription
